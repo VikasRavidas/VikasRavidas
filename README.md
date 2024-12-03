@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Ravidas</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <div style="display: flex; justify-content: space-between;">
-  <span>👀 -I’m interested in coding .......................................................................................................................................................</span>
+  <span>👀 -I’m interested in coding ............................................................................................................................................</span>
   <span>🌱- I’m currently learning new skills</span>
 </div>
 
