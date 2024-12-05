@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasravidas&show_icons=true&locale=en" alt="vikasravidas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VikasRavidas&theme=buefy" alt="vikasravidas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VikasRavidas&theme=default" alt="vikasravidas" /></p>
